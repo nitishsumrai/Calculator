@@ -1,0 +1,60 @@
+body{
+    background-color: #d9e4f1;
+}
+.main-div{
+    text-align: center;
+    height: auto;
+    width: auto;
+    display: inline-block;
+    border: 6px solid #5eadca;
+    border-radius: 3px; 
+   
+}
+h3{
+    margin:5px;
+    color: #454228;
+    font-family: sans-serif;
+}
+.outputDiv{
+    margin-left: 10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    height: 3.5em;
+    width: auto;
+    color: #333333;
+    font-family: sans-serif;
+    padding: 4px;
+    background-color: white;
+}
+.simple-button{
+    color: #1e395b;
+     width: 40px;
+     height: auto;
+     font-size: 1.2em;
+     padding: 3px;
+}
+.zero-button{    
+    color: #1e395b;
+    height: auto;
+    font-size: 1.2em;
+    padding: 3px;
+    width: 86px;
+}
+.equal-button{
+    color: #1e395b;
+    font-size: 1.2em;
+    width: 40px;
+    height: 3.6em;
+    
+}
+table{
+    padding: 8px;
+    
+}
+.outputs{
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    margin-right: 5px;
+    display: inline;
+}
